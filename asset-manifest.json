@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/generador-urls/static/css/main.825ddd7a.css",
+    "main.js": "/generador-urls/static/js/main.4efc577f.js",
+    "static/js/787.8600cf55.chunk.js": "/generador-urls/static/js/787.8600cf55.chunk.js",
+    "static/media/fondo.png": "/generador-urls/static/media/fondo.6106f2cb69acf303c354.png",
+    "index.html": "/generador-urls/index.html",
+    "main.825ddd7a.css.map": "/generador-urls/static/css/main.825ddd7a.css.map",
+    "main.4efc577f.js.map": "/generador-urls/static/js/main.4efc577f.js.map",
+    "787.8600cf55.chunk.js.map": "/generador-urls/static/js/787.8600cf55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825ddd7a.css",
+    "static/js/main.4efc577f.js"
+  ]
+}
